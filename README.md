@@ -1,3 +1,2 @@
 # GitRepo
-This is AB Repository
-Starting projects of Ramakant
+This is RSB Pub Repo
